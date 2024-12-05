@@ -1,5 +1,5 @@
 # Skyler Hall - Software Engineer
-Hello! Since most of my project experience comes from coursework, the majority of my repositories are private. However, I've included links to the relevant repositories here for you to review my work. Thank you for understanding.
+Hello! Since most of my project experience comes from coursework, the majority of my repositories are private. However, I've included links to the relevant repositories here for you to view my work. Thank you for understanding.
 
 ## About Me
 Brown University - *Class of 2027*
