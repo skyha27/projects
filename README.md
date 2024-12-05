@@ -50,7 +50,7 @@ link: https://github.com/brown-cs200-spring2024/hw05-information-skyha27/commits
 
 **GraphQuest**  *March 2024*
 
-Implimented a graph-based algorithm that finds the shortest path between nodes in a network, considering multi-edged nodes.
+Implimented a graph-based algorithm that finds the shortest path between nodes in a network, considering multi-edged nodes. Mocked data with common flight layover information.
 
 link: https://github.com/brown-cs200-spring2024/pr02-graphquest-rmgoldba-shall21
 
