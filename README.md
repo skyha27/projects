@@ -15,7 +15,7 @@ Languages/Frameworks: TypeScript, JavaScript, React.js, Node.js, HTML, CSS, Play
 
 Interactive generational slang website, inspired by popular language learning platforms, that teaches users how to speak like the youth.
 
-link: thelingogenie.com
+link: [thelingogenie.com](https://thelingogenie.com)
 
 **Across the cs320-Verse** *November 2024*
 
