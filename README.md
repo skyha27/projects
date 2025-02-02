@@ -11,6 +11,12 @@ Sc.B. Candidate for Computer Engineering
 ## Frontend Projects
 Languages/Frameworks: TypeScript, JavaScript, React.js, Node.js, HTML, CSS, Playwright, Swift, SwiftUI
 
+**thelingogenie** *November 2024 - December 2024*
+
+Interactive generational slang website, inspired by popular language learning platforms, that teaches users how to speak like the youth.
+
+link: thelingogenie.com
+
 **Across the cs320-Verse** *November 2024*
 
 Location-based web app for Urban Studies Research students to track landlord effectiveness; dynamically updated map-based data via (local) backend API.
