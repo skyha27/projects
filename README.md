@@ -8,7 +8,7 @@ Sc.B. Candidate for Computer Engineering
 
 **Relavant Courses:** Software Engineering, Computer Systems Programming, Object-Oriented Programming, Data Structures & Algorithms
 
-## Frontend Projects
+## Frontend Related Projects
 Languages/Frameworks: TypeScript, JavaScript, React.js, Node.js, HTML, CSS, Playwright, Swift, SwiftUI
 
 **thelingogenie** *November 2024 - December 2024*
@@ -44,6 +44,21 @@ Languages/Frameworks: Java, Spark
 Java-based backend server that loads and searches CSV files for quiried Strings. Includes caching of recently loaded documents and related information.
 
 link: https://github.com/cs0320-f24/server-avillard-shall21
+
+## Systems Related Projects
+Languages/Frameworks: C, C++
+
+**WeenseyOS** *April 2025*
+
+Implemented functionality to the WeenseyOS operating system including process/kernel isolation, virtual memory, and fork(). 
+
+link: https://github.com/csci0300/cs300-s25-projects-skyha27/tree/main/weensyos
+
+**Snake** *January 2025 - February 2025*
+
+Recreated video game Snake using C, with support for custom maps.
+
+link: https://github.com/csci0300/cs300-s25-projects-skyha27/tree/main/snake
 
 ## Algorithmic & Miscellaneous Projects
 Languages/Frameworks: Java, Python
