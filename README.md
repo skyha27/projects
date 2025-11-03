@@ -1,7 +1,7 @@
 # Skyler Hall - ScB Computer Engineering
 Hello! Since most of my project experience comes from coursework, the majority of my repositories are private. However, I've included links to the relevant repositories here for you to view my work. Thank you for understanding.
 
- [**My Graphics Portfolio!**](https://drive.google.com/file/d/1rNsw5o0rgT2SjrNEWqYKVZcQbceVPBy4/view?usp=sharing)
+ [**My Graphics Reel!**](https://vimeo.com/1133219090?share=copy&fl=sv&fe=ci)
 
 ## About Me
 Brown University - *Class of 2027*
@@ -49,6 +49,10 @@ link: https://github.com/cs0320-f24/server-avillard-shall21
 
 ## Systems Related Projects
 Languages/Frameworks: C, C++
+
+**Raytracer** *September 2025 - November 2025*
+
+Built a custom raytracer in C++, with support for .OBJ triangle meshes and 4 primitive shapes.
 
 **WeenseyOS** *April 2025*
 
