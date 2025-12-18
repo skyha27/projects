@@ -11,6 +11,12 @@ Sc.B. Candidate for Computer Engineering
 
 **Relevant Courses:** Computer Graphics, Software Engineering, Computer Systems, Computer Animation, Data Structures & Algorithms, OOP
 
+## Sscripting Projects
+
+Created a Maya Python tool for queuing and sequentially rendering batches of scene files.
+
+link: [repo](https://github.com/skyha27/Maya-Render-Queue-Tool)
+
 ## Systems Projects
 
 **FlameOn🔥!**
